@@ -1,9 +1,9 @@
 <?php
 $config = array(
 "title"=>"TMail Lite",
-"host"=>"",
+"host"=>"fmblog.dev",
 "user"=>"",
 "pass"=>"",
-"domain"=>""
+"domain"=>"fmblog.dev"
 );
 ?>
